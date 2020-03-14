@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="673bfa08-fa2e-4a2e-944a-5f706f4704ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="27" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YnOi9Q7wgFq7UW1iN8YrZOfwgk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/03面向对象的继承" />
+      <recent name="$PROJECT_DIR$/01面向对象" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.eval函数">
+    <configuration name="01＿基本的文件操作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="面向对象" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_文件的额操作" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_文件的额操作/01＿基本的文件操作.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02_如何复制" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="面向对象" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_文件的额操作" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_文件的额操作/02_如何复制.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bm_05_异常的传递" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="面向对象" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0７异常和程序的健壮性" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0７异常和程序的健壮性/bm_05_异常的传递.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bm_06_主动的抛出异常" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="面向对象" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0７异常和程序的健壮性" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0７异常和程序的健壮性/bm_06_主动的抛出异常.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="eval函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="面向对象" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/额外的话题＿内建函数" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/额外的话题＿内建函数/eval函数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.eval函数" />
+        <item itemvalue="Python.02_如何复制" />
+        <item itemvalue="Python.01＿基本的文件操作" />
+        <item itemvalue="Python.bm_06_主动的抛出异常" />
+        <item itemvalue="Python.bm_05_异常的传递" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="673bfa08-fa2e-4a2e-944a-5f706f4704ba" name="Default Changelist" comment="" />
+      <created>1583575019457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583575019457</updated>
+      <workItem from="1583575053050" duration="3760000" />
+      <workItem from="1583625353771" duration="13540000" />
+      <workItem from="1583818171123" duration="2347000" />
+      <workItem from="1583906274449" duration="5113000" />
+      <workItem from="1583912169492" duration="1890000" />
+      <workItem from="1583933382851" duration="3701000" />
+      <workItem from="1584016445497" duration="3284000" />
+      <workItem from="1584189603432" duration="101000" />
+      <workItem from="1584189759576" duration="3889000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="706" height="313" key="GridCell.Tab.0.bottom" timestamp="1584193813484">
+      <screen x="0" y="27" width="768" height="1339" />
+    </state>
+    <state width="1858" height="200" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1583675851249" />
+    <state width="706" height="313" key="GridCell.Tab.0.bottom/0.27.768.1339@0.27.768.1339" timestamp="1584193813484" />
+    <state width="706" height="313" key="GridCell.Tab.0.center" timestamp="1584193813482">
+      <screen x="0" y="27" width="768" height="1339" />
+    </state>
+    <state width="1858" height="200" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1583675851249" />
+    <state width="706" height="313" key="GridCell.Tab.0.center/0.27.768.1339@0.27.768.1339" timestamp="1584193813482" />
+    <state width="706" height="313" key="GridCell.Tab.0.left" timestamp="1584193813481">
+      <screen x="0" y="27" width="768" height="1339" />
+    </state>
+    <state width="1858" height="200" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1583675851248" />
+    <state width="706" height="313" key="GridCell.Tab.0.left/0.27.768.1339@0.27.768.1339" timestamp="1584193813481" />
+    <state width="706" height="313" key="GridCell.Tab.0.right" timestamp="1584193813483">
+      <screen x="0" y="27" width="768" height="1339" />
+    </state>
+    <state width="1858" height="200" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1583675851249" />
+    <state width="706" height="313" key="GridCell.Tab.0.right/0.27.768.1339@0.27.768.1339" timestamp="1584193813483" />
+    <state width="1858" height="350" key="GridCell.Tab.1.bottom" timestamp="1583578829646">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1858" height="350" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1583578829646" />
+    <state width="706" height="465" key="GridCell.Tab.1.bottom/0.27.768.1339@0.27.768.1339" timestamp="1583576589584" />
+    <state width="1858" height="350" key="GridCell.Tab.1.center" timestamp="1583578829643">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1858" height="350" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1583578829643" />
+    <state width="706" height="465" key="GridCell.Tab.1.center/0.27.768.1339@0.27.768.1339" timestamp="1583576589582" />
+    <state width="1858" height="350" key="GridCell.Tab.1.left" timestamp="1583578829643">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1858" height="350" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1583578829643" />
+    <state width="706" height="465" key="GridCell.Tab.1.left/0.27.768.1339@0.27.768.1339" timestamp="1583576589582" />
+    <state width="1858" height="350" key="GridCell.Tab.1.right" timestamp="1583578829646">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1858" height="350" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1583578829646" />
+    <state width="706" height="465" key="GridCell.Tab.1.right/0.27.768.1339@0.27.768.1339" timestamp="1583576589584" />
+    <state x="0" y="229" key="SettingsEditor" timestamp="1584191153314">
+      <screen x="0" y="27" width="768" height="1339" />
+    </state>
+    <state x="0" y="229" key="SettingsEditor/0.27.768.1339@0.27.768.1339" timestamp="1584191153314" />
+    <state x="11" y="470" key="com.intellij.ide.util.TipDialog" timestamp="1584189763588">
+      <screen x="0" y="27" width="768" height="1339" />
+    </state>
+    <state x="28" y="375" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1583625353960" />
+    <state x="11" y="470" key="com.intellij.ide.util.TipDialog/0.27.768.1339@0.27.768.1339" timestamp="1584189763588" />
+    <state x="0" y="326" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583576325330">
+      <screen x="0" y="27" width="768" height="1339" />
+    </state>
+    <state x="0" y="326" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.27.768.1339@0.27.768.1339" timestamp="1583576325330" />
+    <state x="0" y="303" width="874" height="1034" key="search.everywhere.popup" timestamp="1583733196061">
+      <screen x="0" y="27" width="768" height="1339" />
+    </state>
+    <state x="0" y="303" width="874" height="1034" key="search.everywhere.popup/0.27.768.1339@0.27.768.1339" timestamp="1583733196061" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$03.coverage" NAME="03面向对象の继承 Coverage Results" MODIFIED="1583761957032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$hm_09_str__1_.coverage" NAME="hm_09_内置方法str方法 (1) Coverage Results" MODIFIED="1583675443567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01面向对象基础" />
+    <SUITE FILE_PATH="coverage/$hm_05_init.coverage" NAME="hm_05_初始化方法init Coverage Results" MODIFIED="1583577398069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$hm_04_.coverage" NAME="hm_04_静态方法 Coverage Results" MODIFIED="1583908781643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05类的属性，方法还有静态方法" />
+    <SUITE FILE_PATH="coverage/$bm_03_.coverage" NAME="bm_03_处理未知错误 Coverage Results" MODIFIED="1583935415260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0７异常和程序的健壮性" />
+    <SUITE FILE_PATH="coverage/$hm_05_.coverage" NAME="hm_05_练习 Coverage Results" MODIFIED="1583909370231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05类的属性，方法还有静态方法" />
+    <SUITE FILE_PATH="coverage/$hm_02_.coverage" NAME="hm_02_实现单例模式 Coverage Results" MODIFIED="1583911185696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06设计模式" />
+    <SUITE FILE_PATH="coverage/$bm_06_.coverage" NAME="bm_06_主动的抛出异常 Coverage Results" MODIFIED="1584017932214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0７异常和程序的健壮性" />
+    <SUITE FILE_PATH="coverage/$hm_.coverage" NAME="hm_陷阱 Coverage Results" MODIFIED="1583907813537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05类的属性，方法还有静态方法" />
+    <SUITE FILE_PATH="coverage/$hm_08_del.coverage" NAME="hm_08_del方法 Coverage Results" MODIFIED="1583578394236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$hm_07_MRO.coverage" NAME="hm_07_MRO顺序 Coverage Results" MODIFIED="1583818820078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03面向对象的继承" />
+    <SUITE FILE_PATH="coverage/$bm_05_.coverage" NAME="bm_05_异常的传递 Coverage Results" MODIFIED="1584016926836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0７异常和程序的健壮性" />
+    <SUITE FILE_PATH="coverage/$hm_03_.coverage" NAME="hm_03_初始化方法的改造 Coverage Results" MODIFIED="1583933455548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06设计模式" />
+    <SUITE FILE_PATH="coverage/$hm_09_str.coverage" NAME="hm_09_内置方法str方法 Coverage Results" MODIFIED="1583578742677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$eval.coverage" NAME="eval函数 Coverage Results" MODIFIED="1584193453767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/额外的话题＿内建函数" />
+    <SUITE FILE_PATH="coverage/$bm_01_.coverage" NAME="bm_01_简单的异常捕获 Coverage Results" MODIFIED="1583934645514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0７异常和程序的健壮性" />
+    <SUITE FILE_PATH="coverage/$hm_Person.coverage" NAME="hm_Person小明 Coverage Results" MODIFIED="1583675692526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02面向对象练习" />
+    <SUITE FILE_PATH="coverage/$bm_02_.coverage" NAME="bm_02_针对不同的错误类型 Coverage Results" MODIFIED="1583935174114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0７异常和程序的健壮性" />
+    <SUITE FILE_PATH="coverage/$02_.coverage" NAME="02_如何复制 Coverage Results" MODIFIED="1584191505860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_文件的额操作" />
+    <SUITE FILE_PATH="coverage/$hm_07_.coverage" NAME="hm_07_初始化代码的改进 Coverage Results" MODIFIED="1583578006243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$hm_01_.coverage" NAME="hm_01_单例设计模式 Coverage Results" MODIFIED="1583910645248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06设计模式" />
+    <SUITE FILE_PATH="coverage/$hm_06_.coverage" NAME="hm_06_初始化类的方法 Coverage Results" MODIFIED="1583577587033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$01.coverage" NAME="01＿基本的文件操作 Coverage Results" MODIFIED="1584191184459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_文件的额操作" />
+  </component>
+</project>
